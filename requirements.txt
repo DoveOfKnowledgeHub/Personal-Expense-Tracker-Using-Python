@@ -1,0 +1,4 @@
+To run the Personal Expense Tracker application, you will need to have the following Python packages installed:
+
+1. pip install tk
+2. pip install matplotlib
